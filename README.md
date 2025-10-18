@@ -1,5 +1,9 @@
 # 5.VERIFICATION-OF-NORTON-S-THEOREM
 
+# NAME:R.RAGUL
+
+# REFERENCE NO:25018302
+
 **AIM:**
 
 To verify Norton’s theorem practically and theoretically for the given DC circuit.
@@ -22,22 +26,12 @@ It is the short-circuit current through the load terminals. i.e., IN = Isc
 
 Norton’s Resistance, RN:It is the look-back resistance across the load terminals when all the sources are replaced by their internal resistances. An ideal voltage source is replaced by short- circuiting as its internal resistance is zero. An ideal current source is replaced by open- circuiting as its internal resistance is infinity.
  
+
 **CIRCUIT DIAGRAM: VERIFICATION OF NORTON’S THEOREM**
 
-**To measure IL**
+![WhatsApp Image 2025-10-15 at 22 44 14_fcdea157](https://github.com/user-attachments/assets/8059bd36-273b-4bab-bc5e-1d960f6da694)
+![WhatsApp Image 2025-10-15 at 22 44 14_fecd0347](https://github.com/user-attachments/assets/21f491a3-bc27-4232-8cf8-ac24c724cf5e)
 
-
-**To measure RTh or RN**
-
-
-
-**To measure IN or Isc**
-
- 
-**Thevenin’s equivalent circuit**
-
-
-**Norton’s equivalent circuit**
 
 
 **PROCEDURE:**
@@ -70,27 +64,16 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 12.	Theoretically verify the Norton’s theorem.
 
-**TABULAR COLUMN: 1**
-To measure I L
+**TABULAR COLUMN:**
 
-Vi (volts)	IL (amps)
-
-**TABULAR COLUMN:2**
-
-To measure RTh or RN
-
-Vi (volts)	RTh (Ω)
+<img width="707" height="960" alt="image" src="https://github.com/user-attachments/assets/a5b5c3e4-a88b-4b8b-a48f-872d056b23fc" />
 
 
-**TABULAR COLUMN:3**
-
-To measure IN or Isc
-
-Vi (volts)	IN (amps)
 	
 **MODEL CALCULATION:**
 
-Practical value of IL (from tabulation 1) =2.3mA
+![WhatsApp Image 2025-10-15 at 22 44 15_5204c95f](https://github.com/user-attachments/assets/1ebb977e-0036-4818-98bd-f3e564ca62c1)
+
 
 **Verification of Norton’s theorem**
 
@@ -98,6 +81,10 @@ IL = IN * RN / ( RN+ RL ) = 2.43mA
 
 Theoretical calculation of IL ,IN and RTh(RN) for the given circuit:
  
+**MARK SPLIT-UP:**
+
+![WhatsApp Image 2025-10-15 at 22 44 15_1219a62b](https://github.com/user-attachments/assets/30d9c57e-18d9-43ae-96cd-12d55de55740)
+
 
 
 **RESULT:**
